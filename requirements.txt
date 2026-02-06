@@ -1,0 +1,15 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-core
+
+# HuggingFace
+huggingface-hub
+transformers
+
+# Web Search Tools
+duckduckgo-search
+wikipedia
+
+# Utilities
+requests
